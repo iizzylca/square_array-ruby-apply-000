@@ -4,5 +4,5 @@ def square_array(array)
     index ** 2
   end
 end
-new_numbers = [9,10,16,25]
+new_array = [9,10,16,25]
 square_array(new_numbers)
